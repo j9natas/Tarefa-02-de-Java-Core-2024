@@ -1,0 +1,64 @@
+1) Defina com suas palavras o que é Java?
+e uma programação muito ultilizada, orientada a objetos e ultilizada para desenvolver software
+
+2)Defina com suas palavras o que é plataforma Java?
+e uma plataforma de  desenvolvimento e execução que tem  tudo o que necessario para desenvolver e executar aplicativos Java.a máquina virtual Java (JVM) que executa o bytecode gerado a partir do código fonte Java, além de bibliotecas, frameworks e ferramentas de desenvolvimento.
+ 
+3) Defina com suas palavras o que é linguagem de programação Java?
+java oferece uma sintaxe limpa e intuitiva,alem de uma ampla gama de recursos que agilizam a na hora de programar 
+
+4) Defina com suas palavras o que é Java?
+uma linguagem de programação muita ampla com varios recursos 
+
+
+5) Defina com suas palavras o que é editor de texto? Cite exemplos.
+e um programa de software criada para criar, e editar e manipular arquivos de texto simples.microsoft word  e o google docs 
+
+6) Defina com suas palavras o que é IDE? Cite exemplos
+e um  software que combina varias ferramentas e recursos em uma única interface para auxiliar os desenvolvedores no processo de criação  de software.
+Eclipse
+IntelliJ IDEA
+Visual Studio
+Xcode
+Android Studio
+
+
+
+7) Cite cinco exemplos de IDE que podem ser utilizadas para desenvolver a linguagem de programação Java.
+Eclipse
+IntelliJ IDEA
+NetBeans
+Visual Studio Code (VS Code)
+BlueJ
+
+
+8) Defina com suas palavras o que é a sigla JVM?
+ Essa sigla jvm significa "Máquina Virtual Java"
+
+
+9) Explique com suas palavras o conteúdo de uma JVM.
+
+A JVM  e um é um software que simula uma máquina física, que roda os programas java sejam executados de forma independente da platafaroma
+
+
+10) Explique com suas palavras o que é Projeto.
+ 
+Um projeto é uma atividade planejada e cordenada com a finalidade de alcançar um resultado
+
+11) Explique com suas palavras o que é pacote
+Um pacote e um coleção de classes e interfaces são deixadas juntas para facilitar a organização
+
+
+12) Explique com suas palavras o que é Classe.
+
+Uma classe serve como modelo ou planta baixa para criar objetos
+
+13) Cite 5 areas onde encontramos a linguagem de programação Java
+Desenvolvimento de Aplicativos Web
+Desenvolvimento de Aplicativos Móveis
+Desenvolvimento de Sistemas Empresariais
+Desenvolvimento de Jogos
+Desenvolvimento de Aplicativos de Desktop
+
+14) Explique com suas palavras o que é o conceito de Case Sensitity.
+Refere-se o diferencial entre  maiúsculas e minúsculas em um código fonte
